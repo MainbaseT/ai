@@ -1,5 +1,26 @@
 # @ai-sdk/xai
 
+## 3.0.9
+
+### Patch Changes
+
+- 173dcfd: added support for streaming custom tool input chunks in xAI
+
+## 3.0.8
+
+### Patch Changes
+
+- Updated dependencies [d937c8f]
+  - @ai-sdk/provider@3.0.2
+  - @ai-sdk/openai-compatible@2.0.4
+  - @ai-sdk/provider-utils@4.0.4
+
+## 3.0.7
+
+### Patch Changes
+
+- 23179aa: fix (provider/xai): use correct format for function tools
+
 ## 3.0.6
 
 ### Patch Changes
